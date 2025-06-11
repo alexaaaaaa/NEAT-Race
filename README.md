@@ -1,8 +1,7 @@
 <p align="center">
   <img src="https://i.imgur.com/iOVOmlZ.png" width="600px">
 </p>
-**WARNING:**
-this project has been forked for the sake of historical preservation.
+
 
 A small project which uses a **Machine Learning** to learn cars drive on the race track with the **NEAT** (NeuroEvolution of Augmenting Topologies) algorithm, created in **Unity**.
 
